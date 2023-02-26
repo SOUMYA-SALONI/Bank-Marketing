@@ -11,9 +11,9 @@ Data:
 2. test.csv : Use the trained model to predict whether a new set of clients will subscribe the term deposit.
 
 Tools and Algorithms Used for Analysis:
-Python
-Numpy
-Pandas
-Seaborn
-Logistic Regression
-Decision Tree Classifier
+1.Python
+2.Numpy
+3.Pandas
+4.Seaborn
+5.Logistic Regression
+6.Decision Tree Classifier
